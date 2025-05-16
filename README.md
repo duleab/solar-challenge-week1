@@ -4,4 +4,7 @@ This repository contains the code and analysis for the Solar Challenge Week 1 pr
 
 ## Environment Setup
 
-1. Clone the repository:
+1. Clone the repo:
+```bash
+git clone https://github.com/duleab/solar-challenge-week1.git
+cd solar-challenge-week1

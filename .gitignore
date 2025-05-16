@@ -1,19 +1,20 @@
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-env/
 
-# Data files
+# Virtual environments
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and outputs
 data/
 *.csv
+*.xlsx
 
-# Jupyter Notebooks
-.ipynb_checkpoints
+# VSCode settings
+.vscode/
 
-# VS Code
-.vscode/*
-!.vscode/settings.json
+# Environment files
+.env

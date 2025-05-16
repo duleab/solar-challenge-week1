@@ -1,6 +1,7 @@
-numpy
 pandas
+numpy
 matplotlib
 seaborn
-jupyter
+scikit-learn
+notebook
 streamlit
